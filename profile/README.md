@@ -2,6 +2,8 @@
 
 **The AI context layer for modern work.**
 
+<img src="four-products.gif" width="640" alt="Four products, one account: sign in once and it's all there">
+
 Four connected products on one shared foundation:
 
 | | |
@@ -15,8 +17,8 @@ Teams work on the shared context directly; AI agents reach the same information
 through the API and MCP connectors — so agents act on what your team actually
 knows, rather than a stale copy of it.
 
-The repositories here are the Claude Code skills for our HTTP APIs, plus Dutify
-Desktop releases.
+The repositories here are the Claude Code skills for our HTTP APIs, the hosted
+[Dutify MCP server](https://github.com/dutifyai/dutify-mcp) docs, plus Dutify Desktop releases.
 
 ---
 
